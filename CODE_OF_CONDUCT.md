@@ -12,11 +12,11 @@ We invite all those who participate in Awesome C/C++ to help us create safe and 
 
 A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-## 3. Expected Behavior
+## 3. Expected Behavior.
 
 The following behaviors are expected and requested of all community members:
 
@@ -27,7 +27,7 @@ The following behaviors are expected and requested of all community members:
 *   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 *   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 4. Unacceptable Behavior
+## 4. Unacceptable Behavior.
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -43,7 +43,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
 
-## 5. Consequences of Unacceptable Behavior
+## 5. Consequences of Unacceptable Behavior.
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -51,7 +51,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 6. Reporting Guidelines
+## 6. Reporting Guidelines.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. fffaraz@gmail.com.
 
