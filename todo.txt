@@ -31,7 +31,7 @@ http://en.cppreference.com/w/cpp/links/libs
 https://github.com/clibs
 https://github.com/clibs/clib/wiki/Packages
 
-https://github.com/rampantpixels
+https://github.com/rampantpixels.
 https://github.com/rampantpixels/foundation_lib
 https://github.com/rampantpixels/network_lib
 
@@ -39,10 +39,10 @@ https://github.com/stephenmathieson/http-get.c
 https://github.com/Constellation/console-colors.c
 https://github.com/jwerle/strsplit.c
 
-https://github.com/psi-im
-https://github.com/psi-im/iris
-https://github.com/psi-im/jdns
-https://github.com/psi-im/libpsi
+https://github.com/psi-im.
+https://github.com/psi-im/iris.
+https://github.com/psi-im/jdns.
+https://github.com/psi-im/libpsi.
 
 
 QUIC & UDT
